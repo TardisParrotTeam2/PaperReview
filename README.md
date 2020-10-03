@@ -3,5 +3,5 @@
 * README 작성 형식:
   
 
-1. 휴리스틱 P-Median 알고리즘을 이용한 자전거주차장 최적입지선정
+### 1. 휴리스틱 P-Median 알고리즘을 이용한 자전거주차장 최적입지선정
 - 링크: koreascience.or.kr/article/JAKO201330258587513.pdf
