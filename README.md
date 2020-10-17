@@ -14,9 +14,8 @@
 
 ### 2. 뉴욕 푸드트럭 위치 최적화
 - 링크: https://borin78.tistory.com/50
-- OpenStreetMap
-  - 지도 Open Api
-  - 제주도의 경우 데이터가 많이 추가되지 않아 보이지만 참고하면 좋을 듯
+- **CARTO**
+  - 지도 발행/위치 분석 서비스 제공
 - GBRT Model
   - Gradient Boosted Regression Tree Model
   - For Feature Extraction
